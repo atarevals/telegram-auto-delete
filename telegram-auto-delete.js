@@ -315,7 +315,7 @@
           view: window
         }));
 
-        await delay(300);
+        await delay(200);
 
         // Find delete/leave option
         const MENU_OPTIONS = [
@@ -339,7 +339,7 @@
         }
 
         deleteChatBtn.click();
-        await delay(300);
+        await delay(200);
 
         // Find confirmation button - prioritize "DELETE FOR ME AND [USERNAME]" over "DELETE JUST FOR ME"
         const allButtons = [...document.querySelectorAll('button')];
