@@ -38,12 +38,19 @@ This script automates the process for you, saving you time and effort! It keeps 
 
 → You’ll see a small control panel appear in the center of your screen!
 
+![telegram autom delete chats](https://raw.githubusercontent.com/atarevals/telegram-auto-delete/refs/heads/main/assets/startUI.png)
+
+
 5. (Optional) If you want to delete your **Saved Messages** too, uncheck the "Keep Saved Messages" option.
 6. Click **Start**, confirm your choice, then sit back and relax while it works its magic.
+
+![telegram autom delete chats](https://github.com/atarevals/telegram-auto-delete/blob/main/assets/progressUI.png)
 
 **Important:** Please do **not** interact with the tab while it’s running.
 
 **Duration:** Typically, it takes between 1 to 5 minutes, depending on how many chats you have.
+
+![telegram autom delete chats](https://raw.githubusercontent.com/atarevals/telegram-auto-delete/refs/heads/main/assets/complateUI.png)
 
 ## What Happens During the Process?
 
